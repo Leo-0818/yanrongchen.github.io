@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Yanrong Chen"
-description              : "aabbcc "
-repository               : "abc"
+description              : " "
+repository               : " "
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,13 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yanrong Chen"
   avatar           : "images/2.jpg"
-  bio              : "Peking University"
+  bio              : " "
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=5D30ak4AAAAJ"
-  email            : "11011111100@ipsum.com"
-  researchgate     : "https://www.researchgate.net/profile/yourprofile"
+  email            : "yanrongchen.psy@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
