@@ -127,8 +127,29 @@ Virtual due to COVID-19.
 
 # 💎 Skills
 - **Languages**: English (Proficient), Mandarin (Native)
+
 - **Methodologies**: MRI, Transcranial Magnetic Stimulation (TMS), Physiology (data collection via BIOPAC), 
-Behavioral tasks (programming via PsychoPy), Ecological Momentary Assessment (EMA), Questionnaire, Metaanalysis/Systematic Review (Boolean logic for literature search, literature screening, and data coding)
-- **Software**: R, Python, MATLAB, DPABI, Mplus, PROCESS, SPSS, JASP, PsychoPy, Rayyan
+Behavioral tasks (programming via PsychoPy), Ecological Momentary Assessment (EMA), Questionnaire, Meta-analysis/Systematic Review (Boolean logic for literature search, literature screening, and data coding)
+
+- **Software**: R, Python, MATLAB, DPABI, Mplus, PROCESS, SPSS, JASP, PsychoPy, Rayya
+
 - **Statistical Skills**: Linear Mixed Effects Analysis, Survival Analysis, Structural Equation Modeling, Path Analysis, 
 Network Analysis, Random Forest Modeling
+
+# 📓 Teaching & Leadership Experience
+- *2023.01 - 2023.04*,***Teaching Assistant*** of **Introduction to Meta-analysis**(Online), ConnectEd Foundation
+
+  Addressed student queries and graded assignments.
+- *2020 & 2021*,***Teaching Assistant*** of **Developmental Psychology**, South China Normal University
+
+  Mentored undergraduates in research design and data analysis for class projects.
+- *2021 - 2022*,***Initiator*** of **Mental Health Journal Club**, South China Normal University
+
+  Founded and led the club, organized weekly journal presentations and discussions.
+
+
+
+
+
+
+
