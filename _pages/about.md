@@ -39,7 +39,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
-## Published <sub>selected</sub>
+## Published(selected)
 - **Quantifying the importance of non-suicidal self-injury characteristics in predicting different clinical outcomes: Using random forest model.** &nbsp;&nbsp;Wang, Z., **Chen, Y.**, Tao, Z., Yang, M., Li, D., Jiang, L., & Zhang, W. (2024). 
 *Journal of Youth and Adolescence, 53*, 1615–1629. [https://doi.org/10.1007/s10964-023-01926-z](https://doi.org/10.1007/s10964-023-01926-z)
 - **Understanding the subtypes of non-suicidal self-injury: A new conceptual framework based on a systematic review.** &nbsp;&nbsp;Wang, Z., Li, D., **Chen, Y.**, Tao, Z., Jiang, L., He, X., & Zhang, W. (2024). 
