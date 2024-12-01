@@ -104,7 +104,7 @@ Virtual due to COVID-19.
 
   *Awarded annually for outstanding academic performance and research achievements.*
 
-- **Graduate Research Grant**(*2020*), South China Normal University | ¥5,000 (approx. $700)
+- **Graduate Research Grant**(*2020*), South China Normal University ,¥5,000 (approx. $700)
 
   *Awarded to support original research.*
 
