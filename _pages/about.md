@@ -109,10 +109,10 @@ Virtual due to COVID-19.
   *Awarded to support original research.*
 
 # 📖 Educations
-- *2020.09 - 2023.06*, South China Normal University, Guangzhou, China
+- *2020.09 - 2023.06*, **South China Normal University, Guangzhou**, China
 
   Master of Education in Developmental and Educational Psychology
-- *2016.09 - 2020.06*, Peking University, Beijing, China
+- *2016.09 - 2020.06*, **Peking University**, Beijing, China
 
   Bachelor of Science in Nursing
 
