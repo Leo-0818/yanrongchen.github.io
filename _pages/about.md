@@ -40,13 +40,13 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 ## Published
-- **Quantifying the importance of nonsuicidal self-injury characteristics in predicting different clinical outcomes: Using random forest model.** Wang, Z., **Chen, Y.**, Tao, Z., Yang, M., Li, D., Jiang, L., & Zhang, W. (2024). 
+- **Quantifying the importance of non-suicidal self-injury characteristics in predicting different clinical outcomes: Using random forest model.** Wang, Z., **Chen, Y.**, Tao, Z., Yang, M., Li, D., Jiang, L., & Zhang, W. (2024). 
 *Journal of Youth and Adolescence, 53*, 1615–1629. [https://doi.org/10.1007/s10964-023-01926-z](https://doi.org/10.1007/s10964-023-01926-z)
-- **Understanding the subtypes of nonsuicidal self-injury: A new conceptual framework based on a systematic review.** Wang, Z., Li, D., **Chen, Y.**, Tao, Z., Jiang, L., He, X., & Zhang, W. (2024). 
+- **Understanding the subtypes of non-suicidal self-injury: A new conceptual framework based on a systematic review.** Wang, Z., Li, D., **Chen, Y.**, Tao, Z., Jiang, L., He, X., & Zhang, W. (2024). 
 *Psychiatry Research, 334*, 115816. [https://doi.org/10.1016/j.psychres.2024.115816](https://doi.org/10.1016/j.psychres.2024.115816)
 - **Different mechanisms mediating cybervictimization and internalizing/externalizing problems: The moderating role of emotion regulation strategies.** Wang, Z., Tao, Z., Lan, Y., **Chen, Y.**, Xie, Q., Li, Q., Lu, C., & Zhang, W. (2023). 
 *Computers in Human Behavior, 144*, 107748. [https://doi.org/10.1016/j.chb.2023.107748](https://doi.org/10.1016/j.chb.2023.107748)
-- **Cybervictimization and nonsuicidal self-injury among Chinese adolescents: The effect of depression and school connectedness.** Liu, S., Wu, W., Zou, H., **Chen, Y.**, Xu, L., Zhang, W., Yu, C., & Zhen, S. (2023). 
+- **Cybervictimization and non-suicidal self-injury among Chinese adolescents: The effect of depression and school connectedness.** Liu, S., Wu, W., Zou, H., **Chen, Y.**, Xu, L., Zhang, W., Yu, C., & Zhen, S. (2023). 
 *Frontiers in Public Health, 11*. [https://doi.org/10.3389/fpubh.2023.1091959](https://doi.org/10.3389/fpubh.2023.1091959)
 - **Adaptive assessment of the capacity of cognitive 
 control.** He, X., Qiu, B., Deng, Y., Liu, T., **Chen, Y.**, & Zhang, W. (2022). 
@@ -58,12 +58,12 @@ improves the inhibition ability.** Qiu, B., **Chen, Y.**, He, X., Liu, T., Wang,
 ## UNDER REVIEW & IN PREPARATION
 ### <sup>#</sup> Contributed equally as the first author
 - **An MRI-based interpretable deep learning model for Alzheimer’s 
-disease risk screening and progression prediction.** Lu, B. ^#^ , **Chen, Y.-R. ^#^**, Li, R.-X. ^#^, Zhang, M.-K., Yan, S.-Z., Wei, M., Castellanos, F. X., Thompson, P. M., Lu, J., 
+disease risk screening and progression prediction.** Lu, B. <sup>#</sup> , **Chen, Y.-R. <sup>#</sup>**, Li, R.-X. <sup>#</sup>, Zhang, M.-K., Yan, S.-Z., Wei, M., Castellanos, F. X., Thompson, P. M., Lu, J., 
 Han, Y., & Yan, C.-G. (in preparation).
 - **Parental corporal punishment and nonsuicidal selfinjury among Chinese adolescents: The mediating role of depressive symptoms and the moderating role of the 
 GABRA2 genotype.** **Chen, Y.**, Yu, C., Wang, Z., Tao, Z., & Zhang, W. (under review).  [https://doi.org/10.21203/rs.3.rs-1987090/v1](https://doi.org/10.21203/rs.3.rs-1987090/v1)
 -  **“Will you be happy if I 
-disappear?”: Exploring the impact of cyber-victimization on adolescent mental health using network analysis.** Tao, Z.^#^, **Chen, Y.^#^** , Wang, Z., Yang, M., Jiang, L., Lu, F., & Zhang, W. (under review).
+disappear?”: Exploring the impact of cyber-victimization on adolescent mental health using network analysis.** Tao, Z.<sup>#</sup>, **Chen, Y.<sup>#</sup>** , Wang, Z., Yang, M., Jiang, L., Lu, F., & Zhang, W. (under review).
 [](https://doi.org/10.2139/ssrn.4617441)
 
 ## CONFERENCE POSTERS
