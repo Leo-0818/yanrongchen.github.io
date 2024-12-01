@@ -55,7 +55,7 @@ control.** &nbsp;&nbsp;He, X., Qiu, B., Deng, Y., Liu, T., **Chen, Y.**, & Zhang
 improves the inhibition ability.** &nbsp;&nbsp;Qiu, B., **Chen, Y.**, He, X., Liu, T., Wang, S., & Zhang, W. (2021). 
 *International Journal of Environmental Research and Public Health, 18*(13), 6884. [https://doi.org/10.3390/ijerph18136884](https://doi.org/10.3390/ijerph18136884)
 
-## UNDER REVIEW & IN PREPARATION
+## Under Review & In Preparation
 ### <sup>#</sup> Contributed equally as the first author
 - **An MRI-based interpretable deep learning model for Alzheimer’s 
 disease risk screening and progression prediction.** &nbsp;&nbsp;Lu, B. <sup>#</sup> , **Chen, Y.-R. <sup>#</sup>**, Li, R.-X. <sup>#</sup>, Zhang, M.-K., Yan, S.-Z., Wei, M., Castellanos, F. X., Thompson, P. M., Lu, J., 
@@ -66,7 +66,7 @@ GABRA2 genotype.** &nbsp;&nbsp;**Chen, Y.**, Yu, C., Wang, Z., Tao, Z., & Zhang,
 disappear?”: Exploring the impact of cyber-victimization on adolescent mental health using network analysis.** &nbsp;&nbsp;Tao, Z.<sup>#</sup>, **Chen, Y.<sup>#</sup>** , Wang, Z., Yang, M., Jiang, L., Lu, F., & Zhang, W. (under review).
 [](https://doi.org/10.2139/ssrn.4617441)
 
-## CONFERENCE POSTERS
+## Conference Posters
 - **The paradox of cognition: The greater the cognitive capacity, the more 
 interference by irrelevant emotional distractors.** &nbsp;&nbsp;**Chen, Y.**, Xu, S., & Zhang, W. (Oct 2021).  The 23rd National Academic Conference of Psychology. 
 Virtual due to COVID-19.
@@ -124,3 +124,11 @@ Virtual due to COVID-19.
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+# 💎 Skills
+- **Languages**: English (Proficient), Mandarin (Native)
+- **Methodologies**: MRI, Transcranial Magnetic Stimulation (TMS), Physiology (data collection via BIOPAC), 
+Behavioral tasks (programming via PsychoPy), Ecological Momentary Assessment (EMA), Questionnaire, Metaanalysis/Systematic Review (Boolean logic for literature search, literature screening, and data coding)
+- **Software**: R, Python, MATLAB, DPABI, Mplus, PROCESS, SPSS, JASP, PsychoPy, Rayyan
+- **Statistical Skills**: Linear Mixed Effects Analysis, Survival Analysis, Structural Equation Modeling, Path Analysis, 
+Network Analysis, Random Forest Modeling
