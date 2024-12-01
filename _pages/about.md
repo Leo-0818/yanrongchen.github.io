@@ -100,8 +100,14 @@ Virtual due to COVID-19.
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **Graduate Academic Scholarship**, South China Normal University（*2020, 2021, 2022*）
+
+  *Awarded annually for outstanding academic performance and research achievements.*
+
+  
+- **Graduate Research Grant**, South China Normal University | ¥5,000 (approx. $700)（*2020*）
+
+  *Awarded to support original research.*
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
