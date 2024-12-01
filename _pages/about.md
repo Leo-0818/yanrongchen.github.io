@@ -56,7 +56,7 @@ improves the inhibition ability.** Qiu, B., **Chen, Y.**, He, X., Liu, T., Wang,
 *International Journal of Environmental Research and Public Health, 18*(13), 6884. [https://doi.org/10.3390/ijerph18136884](https://doi.org/10.3390/ijerph18136884)
 
 ## UNDER REVIEW & IN PREPARATION
-### ^#^ Contributed equally as the first author
+### <sup>#</sup> Contributed equally as the first author
 - **An MRI-based interpretable deep learning model for Alzheimer’s 
 disease risk screening and progression prediction.** Lu, B. ^#^ , **Chen, Y.-R. ^#^**, Li, R.-X. ^#^, Zhang, M.-K., Yan, S.-Z., Wei, M., Castellanos, F. X., Thompson, P. M., Lu, J., 
 Han, Y., & Yan, C.-G. (in preparation).
