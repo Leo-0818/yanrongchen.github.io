@@ -100,7 +100,7 @@ Virtual due to COVID-19.
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- **Graduate Academic Scholarship**, South China Normal University（*2020, 2021, 2022*）
+- **Graduate Academic Scholarship**, South China Normal University<p align="right">*2020, 2021, 2022*</p>
 
   *Awarded annually for outstanding academic performance and research achievements.*
 
