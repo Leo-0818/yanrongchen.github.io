@@ -60,7 +60,7 @@ improves the inhibition ability.** Qiu, B., **Chen, Y.**, He, X., Liu, T., Wang,
 - **An MRI-based interpretable deep learning model for Alzheimer’s 
 disease risk screening and progression prediction.** Lu, B. <sup>#</sup> , **Chen, Y.-R. <sup>#</sup>**, Li, R.-X. <sup>#</sup>, Zhang, M.-K., Yan, S.-Z., Wei, M., Castellanos, F. X., Thompson, P. M., Lu, J., 
 Han, Y., & Yan, C.-G. (in preparation).
-- **Parental corporal punishment and nonsuicidal selfinjury among Chinese adolescents: The mediating role of depressive symptoms and the moderating role of the 
+- **Parental corporal punishment and non-suicidal self-injury among Chinese adolescents: The mediating role of depressive symptoms and the moderating role of the 
 GABRA2 genotype.** **Chen, Y.**, Yu, C., Wang, Z., Tao, Z., & Zhang, W. (under review).  [https://doi.org/10.21203/rs.3.rs-1987090/v1](https://doi.org/10.21203/rs.3.rs-1987090/v1)
 -  **“Will you be happy if I 
 disappear?”: Exploring the impact of cyber-victimization on adolescent mental health using network analysis.** Tao, Z.<sup>#</sup>, **Chen, Y.<sup>#</sup>** , Wang, Z., Yang, M., Jiang, L., Lu, F., & Zhang, W. (under review).
