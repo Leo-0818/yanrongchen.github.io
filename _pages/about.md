@@ -20,7 +20,7 @@ redirect_from:
 This website is under construction.
 
 
-Here'll be instruction of Yanrong.
+Here'll be introduction of Yanrong.
 
 # 📖 Educations
 - *2020.09 - 2023.06*, **South China Normal University**, Guangzhou, China
